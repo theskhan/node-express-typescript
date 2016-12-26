@@ -11,3 +11,10 @@ typings install
 ```bash
 npm start
 ```
+
+### Many thanks to @jburger.
+https://github.com/jburger/examples#readme
+
+#### I have modified the original code to update Typescript and other dependencies. Restructured the folders. 
+
+### Recommended to use VSCode Editor for NodeJs development. I have added .vscode settings to exclude unnecessary folders from workspace.
