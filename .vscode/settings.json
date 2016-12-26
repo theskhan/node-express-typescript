@@ -9,6 +9,6 @@
         "typings/": true,
         ".vscode": true,
         "**/*.js": true,
-        "*.json": true // Hide only from root
+        "*.json": true
     }
 }
